@@ -2,7 +2,7 @@
 
 *lights fade, Dean Winters shows up in an Allstate commercial*: "What's that? Your little dinky Macbook Air sounds like a 747 when you leave it running overnight to process your data, keeping you awake all night so that the next morning you snap during group meeting when you get asked what's the holdup on that plot? Oh wait, you just figured out the calculation you want to make takes 200 years to run on your laptop over your 1000s of galaxies?"
 
-*cut to black, woman's cool voice-over that they use at the end of drug commercials*: "If this sounds like you, talk to your advisor about **clustering**."
+*cut to black, woman's cool voice-over that they use at the end of drug commercials*: "If you exhibit any of these symptoms, talk to your advisor about **clustering**."
 
 ## What is a cluster?
 
